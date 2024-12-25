@@ -1,0 +1,84 @@
+.div{
+    margin: 15%;
+    justify-content: center;
+    align-items: center;
+   background-color: aliceblue;
+   padding: 10px 20px 10px 20px;
+   border: 1px;
+   border-radius: 10px;
+}
+body{
+    background-color: blanchedalmond;
+    color: rgb(111, 111, 111);
+}
+h2{
+    color: sienna;
+}
+img{
+    border: 1px aliceblue solid;
+    border-radius: 5px;
+}
+#cuisson{
+    background-color:rgb(196, 83, 68);
+    border: 1px rgb(159, 35, 16) solid;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+#cuisson h3{
+    color: rgb(139, 44, 0);
+}
+h1{
+    color: sienna;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}   
+td{
+    border-bottom: 1px solid rgb(169, 169, 169);
+}
+.info{
+    text-align: center;
+    color: sienna;
+}
+td{
+    color: rgb(111, 111, 111);
+}
+a{
+    text-decoration: none;
+    color: sienna;
+}
+fieldset{
+    border-radius: 5px;
+    width: 90%;
+}
+label{
+    width: 120px;
+    display: inline-block;
+    vertical-align: top;
+}
+input{
+    border-radius: 5px;
+}
+textarea{
+    border-radius: 5px;
+}
+#Envoyer{
+    padding-inline: 52px;
+    color: aliceblue;
+    background-color: sienna;
+}
+#cuisson li{
+    color: black;
+}
+footer{
+    text-align: center;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
