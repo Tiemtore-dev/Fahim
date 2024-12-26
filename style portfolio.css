@@ -136,22 +136,6 @@ a{
 #send{
     background-color: #765648;
 }
-/*@media screen and (max-width:480px) {
-    .haut{
-        flex-wrap: wrap;
-    }
-    .haut-gauche{
-        align-items: center;
-        justify-content: flex-start;
-    }
-    .Project{
-        flex-wrap: wrap;
-    }
-    .bas{
-        flex-wrap: wrap;
-        
-    }
-}*/
 
 @media screen and (min-width:481px) and (max-width:768px) 
 {
@@ -163,18 +147,37 @@ a{
 @media screen and (min-width:769px) and (max-width:1024px) 
 {
     .haut{
-        flex-wrap: nowrap ;
+        flex-wrap:nowrap ;
+    }
+    .bas{
+        flex-wrap: nowrap;
     }
 }
 
 @media screen and (min-width:1025px){
     .haut{
-        flex-wrap: nowrap ;
+        flex-wrap:nowrap ;
+    }
+    .bas{
+        flex-wrap: nowrap;
     }
 }
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
